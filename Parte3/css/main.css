@@ -1,0 +1,9 @@
+.titulo {
+	font-weight: bold;
+}
+div {
+	border: 1px solid red;
+	padding: 0px 10px 5px 10px;
+	width: 200px;
+	margin: 0px;
+}
